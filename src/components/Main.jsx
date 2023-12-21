@@ -44,14 +44,14 @@ const Main = () => {
             <div>
                 <h2 id='Servicios' className={Style.branding}>Branding</h2>
                 <div className={Style.containerPack}>
-                    <a href="./Pack1"><img className={Style.pack1} src={pack1} alt="Pack1" /></a>
-                    <a href="./Pack2"><img className={Style.pack1} src={pack2} alt="pack2" /></a>
-                    <a href="./Pack3"><img className={Style.pack1} src={pack3} alt="pack3" /></a>
+                    <a href="../Pack1"><img className={Style.pack1} src={pack1} alt="Pack1" /></a>
+                    <a href="../Pack2"><img className={Style.pack1} src={pack2} alt="pack2" /></a>
+                    <a href="../Pack3"><img className={Style.pack1} src={pack3} alt="pack3" /></a>
                 </div>
                 <h2 className={Style.branding}>Desarrollo Web</h2>
                 <div className={Style.containerPack}>
-                    <a href="./Pack4"><img className={Style.pack1} src={pack4} alt="pack4" /></a>
-                    <a href="./Pack5"><img className={Style.pack1} src={pack5} alt="pack5" /></a>
+                    <a href="../Pack4"><img className={Style.pack1} src={pack4} alt="pack4" /></a>
+                    <a href="../Pack5"><img className={Style.pack1} src={pack5} alt="pack5" /></a>
                 </div>
             </div>
 
