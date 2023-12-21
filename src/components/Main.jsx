@@ -33,7 +33,7 @@ const Main = () => {
 
     return (
         <div>
-            <a className={Style.btnWsp} target='Blank' href="https://api.whatsapp.com/send?phone=31611596169">
+            <a className={Style.btnWsp} target='Blank' href="https://api.whatsapp.com/send?phone=34611870565">
                 <i className={Style.iconWsp}><FontAwesomeIcon icon={faWhatsapp} /></i>
             </a>
             <div className={Style.containerImg}>
