@@ -222,14 +222,7 @@
             transform: scale(0.96);
             }
     
-        .contactForm form button:hover,
-        .contactForm form button:focus {
-            background: #fff ;
-            color: #000;
-            border: solid 1px #000;
-            cursor: pointer;
-            transition: background-color .5s ease-out;
-        }
+       
     
         .contactInfo{
             background-color: #000;
@@ -458,14 +451,7 @@ button:active {
     transform: scale(0.96);
 }
     
-.contactForm form button:hover,
-.contactForm form button:focus {
-    background: #fff ;
-    color: #000;
-    border: solid 1px #000;
-    cursor: pointer;
-    transition: background-color .5s ease-out;
-}
+
 
 .contactInfo{
     background-color: #000;
@@ -686,14 +672,7 @@ button:active {
     transform: scale(0.96);
 }
     
-.contactForm form button:hover,
-.contactForm form button:focus {
-    background: #fff ;
-    color: #000;
-    border: solid 1px #000;
-    cursor: pointer;
-    transition: background-color .5s ease-out;
-}
+
 
 .contactInfo{
     background-color: #000;
@@ -920,14 +899,8 @@ button:active {
 transform: scale(0.96);
 }
 
-.contactForm form button:hover,
-.contactForm form button:focus {
-background: #fff ;
-color: #000;
-border: solid 1px #000;
-cursor: pointer;
-transition: background-color .5s ease-out;
-}
+
+
 
 .contactInfo{
 background-color: #000;
