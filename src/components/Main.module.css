@@ -216,6 +216,7 @@
             padding: 10px;
             transition: transform 0.2s ease;
             transition: background-color .5s ease-out;
+            cursor: pointer;
         }
     
         button:active {
@@ -445,6 +446,7 @@
     padding: 10px;
     transition: transform 0.2s ease;
     transition: background-color .5s ease-out;
+    cursor: pointer;
 }
 
 button:active {
@@ -666,6 +668,7 @@ margin-bottom: 70px;
     padding: 10px;
     transition: transform 0.2s ease;
     transition: background-color .5s ease-out;
+    cursor: pointer;
 }
 
 button:active {
@@ -893,6 +896,7 @@ text-transform: uppercase;
 padding: 10px;
 transition: transform 0.2s ease;
 transition: background-color .5s ease-out;
+cursor: pointer;
 }
 
 button:active {
